@@ -6,3 +6,4 @@ statsmodels
 matplotlib
 joblib
 tensorflow
+plotly
